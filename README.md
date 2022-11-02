@@ -22,6 +22,8 @@ Give a short description for your sample here. What does it do and why is it imp
 
 ## Contents
 
+Przyborowo
+
 Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
 
 | File/folder       | Description                                |
